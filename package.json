@@ -31,7 +31,7 @@
         "zone.js": "^0.8.4"
     },
     "devDependencies": {
-        "@angular/core": "^8.2.13",
+        "@angular/core": "^11.0.5",
         "@types/jasmine": "2.5.36",
         "canonical-path": "0.0.2",
         "concurrently": "^3.2.0",
